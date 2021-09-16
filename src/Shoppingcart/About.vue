@@ -91,7 +91,6 @@
         </v-card-title>
       </v-card>
     </v-row>
-    <router-view></router-view>
   </div>
 </template>
 
