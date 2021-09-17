@@ -28,6 +28,7 @@ export default new Vuex.Store({
       storeCount: 1,
       offer: "2,500.00 (18%)",
     }
+    
     ]
   },
   mutations: {
